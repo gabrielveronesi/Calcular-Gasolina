@@ -1,0 +1,17 @@
+C:\Users\veron\source\repos\login_calcular-gasosa\bin\Debug\login_calcular-gasosa.exe.config
+C:\Users\veron\source\repos\login_calcular-gasosa\bin\Debug\login_calcular-gasosa.exe
+C:\Users\veron\source\repos\login_calcular-gasosa\bin\Debug\login_calcular-gasosa.pdb
+C:\Users\veron\source\repos\login_calcular-gasosa\bin\Debug\MetroFramework.Design.dll
+C:\Users\veron\source\repos\login_calcular-gasosa\bin\Debug\MetroFramework.dll
+C:\Users\veron\source\repos\login_calcular-gasosa\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\veron\source\repos\login_calcular-gasosa\obj\Debug\login_calcular-gasosa.csprojAssemblyReference.cache
+C:\Users\veron\source\repos\login_calcular-gasosa\obj\Debug\login_calcular_gasosa.Form1.resources
+C:\Users\veron\source\repos\login_calcular-gasosa\obj\Debug\login_calcular_gasosa.Properties.Resources.resources
+C:\Users\veron\source\repos\login_calcular-gasosa\obj\Debug\login_calcular-gasosa.csproj.GenerateResource.cache
+C:\Users\veron\source\repos\login_calcular-gasosa\obj\Debug\login_calcular-gasosa.csproj.CoreCompileInputs.cache
+C:\Users\veron\source\repos\login_calcular-gasosa\obj\Debug\login_calcular-gasosa.csproj.CopyComplete
+C:\Users\veron\source\repos\login_calcular-gasosa\obj\Debug\login_calcular-gasosa.exe
+C:\Users\veron\source\repos\login_calcular-gasosa\obj\Debug\login_calcular-gasosa.pdb
+C:\Users\veron\source\repos\login_calcular-gasosa\bin\Debug\CircularProgressBar.dll
+C:\Users\veron\source\repos\login_calcular-gasosa\bin\Debug\WinFormAnimation.dll
+C:\Users\veron\source\repos\login_calcular-gasosa\obj\Debug\login_calcular_gasosa.Form2.resources
